@@ -1,4 +1,4 @@
-# iCommands hands-on user training
+# iCommands 
 
 ## Learning outcomes
 
