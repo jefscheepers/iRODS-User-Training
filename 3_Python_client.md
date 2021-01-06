@@ -1,7 +1,7 @@
 # The Python iRODS Client (PRC) and VSC-PRC tools
 
 ## Learning outcomes
-Users will learn how to perform basic data management tasks in iRODS via python.   
+Users will learn how to perform basic data management tasks in iRODS via python, through hands-on exercises. 
 They will also learn how to use some python-based tools from the command line, which, compared to iCommands, provide extra flexibility.
 
 ## Contents
