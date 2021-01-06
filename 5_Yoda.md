@@ -16,7 +16,7 @@ They will learn how to execute basic data management actions in Yoda through han
     * Locking collections
 
 ## Target audience
-This tutorial is meant for VSC-users who would rather access and manage their data in a gra
+This tutorial is meant for VSC-users who would rather access and manage their data in a graphical user interface than via the command line.
 Yoda is especially suited for researchers who work on group projects, where data needs to be shared in a group.
 
 ## Prerequisites 
