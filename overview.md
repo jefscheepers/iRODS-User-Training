@@ -5,7 +5,7 @@
 * Introduction to iRODS
 * [iCommands tutorial](2_iCommands.md) 
 * [Yoda tutorial](5_Yoda.md) 
-* Metalnx tutorial
+* [Metalnx tutorial](6_Metalnx.md)
 
 ## Advanced tutorials
 * [iRODS Python Client tutorial](3_Python_client.md)
