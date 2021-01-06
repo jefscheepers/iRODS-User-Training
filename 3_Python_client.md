@@ -18,4 +18,4 @@ Users should have a VSC account and access to the Tier-1 cluster of KU Leuven.
 They should be familiar with the Linux command line and python.
 
 ## Link
-[Python client tutorial](https://github.com/jefscheepers/iRODS-User-Training/blob/master/03_VSC-PRC_Handson_User-Training.md)
+[Python client tutorial](https://github.com/hpcleuven/iRODS-User-Training/blob/master/03_VSC-PRC_Handson_User-Training.md)
