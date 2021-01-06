@@ -20,4 +20,4 @@ This training is meant for VSC users who want to manage data in iRODS through th
 Users should have an iRODS account at KU Leuven or another iRODS environment to practice on, and be familiar with the Linux command line.
 
 ## Link
-[iCommands tutorial](https://github.com/jefscheepers/iRODS-User-Training/blob/master/02_iCommands_Handson_User-Training.md)
+[iCommands tutorial](https://github.com/hpcleuven/iRODS-User-Training/blob/master/02_iCommands_Handson_User-Training.md)
