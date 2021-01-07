@@ -2,7 +2,7 @@
 
 ## Beginner tutorials
 
-* [Introduction to iRODS](01_intro)
+* [Introduction to iRODS](01_intro.md)
 * [iCommands tutorial](02_iCommands.md) 
 * [Yoda tutorial](05_Yoda.md) 
 * [Metalnx tutorial](06_Metalnx.md)
