@@ -17,7 +17,7 @@ This training is meant for VSC users who want to manage data in iRODS through th
 
 ## Prerequisites
 
-Users should have an VSC account and an iRODS account at KU Leuven, or another iRODS environment to practice on.
+Users should have an VSC account and an iRODS account at KU Leuven, or another iRODS environment to practice on.  
 They should be familiar with the Linux command line.
 
 ## Link
